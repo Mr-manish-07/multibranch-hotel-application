@@ -41,9 +41,9 @@ It will demonstrate how to design, develop, and deploy a production-ready applic
 Java, Spring Boot, and PostgreSQL.
 
 -------------------------------------------------------------------------------------------
-#--------- Role based actions ----------
+#-----------------Role based actions-----------------
 
-##1. Super Admin (Owner / CEO / Chain Owner)
+##1. Super Admin (Owner / CEO)
 
 This is the top-level authority — the person (or group) who owns the entire chain.
 Responsibilities:
